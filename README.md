@@ -22,7 +22,7 @@ J’aime transformer des idées complexes en solutions concrètes et utiles : ou
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrandra1na&show_icons=true&theme=tokyonight#gh-light-mode-only)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Andrandra1na&theme=tokyonight#gh-light-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andrandra1na&theme=tokyonight&hide_border=true)
 
 ---
 
