@@ -12,7 +12,7 @@ J’aime transformer des idées complexes en solutions concrètes et utiles : ou
 
 **Langages :** Python, JavaScript, C++, Java  
 **IA/Data :** Pandas, NumPy, Scikit-learn, TensorFlow  
-**Web :** Flask, Node.js, Vue.js, HTML, CSS  
+**Web :** Django , Flask, Node.js, Vue.js, HTML, CSS  
 **Bases de données :** MySQL, PostgreSQL, MongoDB  
 **Outils :** Git, GitHub, Docker, Linux
 
