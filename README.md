@@ -20,9 +20,9 @@ J’aime transformer des idées complexes en solutions concrètes et utiles : ou
 
 ## 📊 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fifaliana-dev&show_icons=true&theme=tokyonight#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrandra1na&show_icons=true&theme=tokyonight#gh-light-mode-only)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fifaliana-dev&theme=tokyonight#gh-light-mode-only)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Andrandra1na&theme=tokyonight#gh-light-mode-only)
 
 ---
 
