@@ -54,15 +54,16 @@ J’aime transformer des idées complexes en solutions concrètes et utiles : ou
 ## 🤝 Contact
 
 Tu veux collaborer ou discuter d’un projet ?  
-
 📩 [andrandraina2003@gmail.com](mailto:andrandraina2003@gmail.com)  
-
 🔗 [LinkedIn](https://www.linkedin.com/in/andrandraina-andrianavony-592ba4288)  
-
 🐙 [GitHub](https://github.com/Andrandra1na)
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrandraina2003@gmail.com)
+<p align="center">
+  <a href="mailto:andrandraina2003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/andrandraina-andrianavony-592ba4288" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Andrandra1na" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrandraina-andrianavony-592ba4288)
+---
 
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andrandra1na)
+### 💡 Construisons l'avenir — une ligne de code à la fois
