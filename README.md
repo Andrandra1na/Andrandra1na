@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="./GITHUB PROFILE 2.png" alt="Banner" width="600"/>
-</p>
-
 # 👋 Salut, je suis Andrandraina
+
+![Banner](./GITHUB%20PROFILE%202.png)
 
 Développeur passionné par l’**IA**, la **data science** et le **développement full-stack**.
 
@@ -22,11 +20,9 @@ J’aime transformer des idées complexes en solutions concrètes et utiles : ou
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fifaliana-dev&show_icons=true&theme=tokyonight" height="160"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fifaliana-dev&theme=tokyonight" height="120"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fifaliana-dev&show_icons=true&theme=tokyonight#gh-light-mode-only)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fifaliana-dev&theme=tokyonight#gh-light-mode-only)
 
 ---
 
@@ -39,4 +35,4 @@ Tu veux collaborer ou discuter d’un projet ?
 
 ---
 
-_💡 “Construisons l’avenir — une ligne de code à la fois.”_
+### 💡 Construisons l'avenir — une ligne de code à la fois
