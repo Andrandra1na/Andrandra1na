@@ -2,7 +2,7 @@
 
 ![Banner](./GITHUB%20PROFILE%202.png)
 
-Développeur passionné par l’**IA**, la **data science** et le **développement full-stack**.
+Développeur passionné par l’**IA** et le **développement full-stack**.
 
 J’aime transformer des idées complexes en solutions concrètes et utiles : outils intelligents, visualisations interactives ou plateformes web bien conçues.
 
@@ -10,7 +10,7 @@ J’aime transformer des idées complexes en solutions concrètes et utiles : ou
 
 ## 🛠️ Compétences clés
 
-**Langages :** Python, JavaScript, C++, Java  
+**Langages :** Python, JavaScript, Java  
 **IA/Data :** Pandas, NumPy, Scikit-learn, TensorFlow  
 **Web :** Django , Flask, Node.js, Vue.js, HTML, CSS  
 **Bases de données :** MySQL, PostgreSQL, MongoDB  
