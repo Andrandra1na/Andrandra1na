@@ -1,9 +1,3 @@
-<!-- BANNIÈRE -->
-<p align="center">
-  <img width="1536" height="1024" alt="GITHUB PROFILE 1" src="https://github.com/user-attachments/assets/7faa5536-4a8c-4c76-adb7-61287f6cefb3" alt="Bannière de profil de Andrandraina" />
-
-</p>
-
 <!-- INTRODUCTION -->
 <h1 align="center">👋 Salut, je suis Andrandraina !</h1>
 <p align="center">
