@@ -135,18 +135,6 @@ Je continue à développer mes compétences sur :
 
 ---
 
-## 💡 Ce que j'apporte
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Motivation & Énergie
-Fraîchement diplômé, j'ai une **soif d'apprendre** et l'énergie pour relever de nouveaux défis chaque jour.
-
-</td>
-<td width="50%">
-
 ### 🧠 Base Solide
 Formation complète en informatique avec des compétences pratiques en **développement** et **IA**.
 
