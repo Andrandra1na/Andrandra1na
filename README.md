@@ -6,7 +6,6 @@
 <!-- STATUS PROFESSIONNEL -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-🟢%20Disponible%20Immédiatement-success?style=for-the-badge&labelColor=000000" alt="Status" />
-  <img src="https://img.shields.io/badge/Formation-Master%20Informatique%20(2025)-blue?style=for-the-badge&labelColor=000000" alt="Formation" />
   <img src="https://img.shields.io/badge/Localisation-Madagascar%20🇲🇬%20(Remote%20Ready)-orange?style=for-the-badge&labelColor=000000" alt="Location" />
 </p>
 
