@@ -135,43 +135,6 @@ Je continue à développer mes compétences sur :
 
 ---
 
-### 🧠 Base Solide
-Formation complète en informatique avec des compétences pratiques en **développement** et **IA**.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎯 Polyvalence
-Capable d'intervenir sur différentes parties d'un projet : backend, frontend, base de données.
-
-</td>
-<td width="50%">
-
-### 🤝 Esprit d'Équipe
-Prêt à collaborer, échanger et apprendre auprès de développeurs plus expérimentés.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 Apprentissage Rapide
-J'assimile rapidement de nouvelles technologies et je suis autonome dans mes recherches.
-
-</td>
-<td width="50%">
-
-### 🌍 Flexibilité
-Remote ou présentiel, Madagascar ou international, je m'adapte facilement.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎯 Types de Projets qui m'Intéressent
 
 - 🌐 **Applications Web Full-Stack** - De la conception à la mise en production
