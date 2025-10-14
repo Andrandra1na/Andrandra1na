@@ -1,89 +1,133 @@
- <!-- INTRODUCTION -->
-<h1 align="center">👋 Salut, je suis Andrandraina !</h1>
-<p align="center">
-  <em>Développeur passionné par l'<b>Intelligence Artificielle</b> et le <b>développement full-stack</b>. <br/>
-  J’aime transformer des idées complexes en solutions concrètes et utiles : outils intelligents, visualisations interactives ou plateformes web bien conçues.</em>
-</p>
+<div align="center">
 
----
+<!-- BANNER ANIMÉ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Andrandraina%20Andrianavony&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- SECTION "À PROPOS DE MOI" -->
-## 👨‍💻 À propos de moi
-
-- 🌱 Actuellement, j'explore les architectures **Microservices** et j'approfondis mes connaissances en **Deep Learning** avec TensorFlow.
-- 🚀 Mon but est de construire des applications qui ont un impact positif et qui résolvent des problèmes réels.
-- 💬 N'hésitez pas à me poser des questions sur **Python, l'IA, ou le développement web**.
-- 📫 Comment me joindre : **andrandraina2003@gmail.com**
-
----
-
-<!-- COMPÉTENCES TECHNIQUES AVEC ICÔNES -->
-## 🛠️ Boîte à Outils du Développeur
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Développeur+Full-Stack+%7C+Passionné+d'IA;Transformant+les+idées+en+solutions+innovantes;Architecte+de+l'intelligence+artificielle" alt="Typing SVG" /></a>
 
 <p align="center">
-  <!-- Langages -->
-  <a href="https://www.python.org " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg " alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg " alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.java.com " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg " alt="java" width="40" height="40"/></a>
-  
-  <!-- IA & Data Science -->
-  <a href="https://pandas.pydata.org/ " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg " alt="pandas" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/ " target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg " alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org " target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg " alt="tensorflow" width="40" height="40"/></a>
-  
-  <!-- Web Frameworks -->
-  <a href="https://www.djangoproject.com/ " target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg " alt="django" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/ " target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg " alt="flask" width="40" height="40"/></a>
-  <a href="https://nodejs.org " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg " alt="nodejs" width="40" height="40"/></a>
-  <a href="https://vuejs.org/ " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg " alt="vuejs" width="40" height="40"/></a>
-  
-  <!-- Bases de données -->
-  <a href="https://www.mysql.com/ " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg " alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg " alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/ " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg " alt="mongodb" width="40" height="40"/></a>
-  
-  <!-- Outils -->
-  <a href="https://git-scm.com/ " target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg " alt="git" width="40" height="40"/></a>
-  <a href="https://www.docker.com/ " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg " alt="docker" width="40" height="40"/></a>
-  <a href="https://www.linux.org/ " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg " alt="linux" width="40" height="40"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Andrandra1na&label=Visiteurs&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Andrandra1na?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
+
+</div>
 
 ---
 
-<!-- STATISTIQUES GITHUB - VERSION CORRIGÉE ET AMÉLIORÉE -->
-## 📊 Mes Statistiques GitHub
+<div align="center">
 
-<p align="center">
-  <!-- Thème clair -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Andrandra1na&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true ">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Andrandra1na&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true ">
-    <img src="https://github-readme-stats.vercel.app/api?username=Andrandra1na&show_icons=true " />
-  </picture>
-  <!-- Streak Stats - Lien Corrigé -->
-  <br>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Andrandra1na&theme=tokyonight&hide_border=true " alt="GitHub Streak" />
-  <!-- Top Langues -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrandra1na&layout=compact&theme=tokyonight&hide_border=true " alt="Top Langues" />
-</p>
+## 🚀 À Propos de Moi
+
+</div>
+
+```python
+class Andrandraina:
+    def __init__(self):
+        self.nom = "Andrandraina Andrianavony"
+        self.role = "Développeur Full-Stack & IA Engineer"
+        self.localisation = "Madagascar 🇲🇬"
+        self.domaines = ["Intelligence Artificielle", "Deep Learning", 
+                         "Microservices", "Web Development"]
+        self.objectif = "Créer des solutions qui changent la donne"
+    
+    def dire_bonjour(self):
+        print("Merci de visiter mon profil ! Collaborons ensemble 🚀")
+
+moi = Andrandraina()
+moi.dire_bonjour()
+```
+
+<div align="center">
+
+🌱 J'explore actuellement : **Architectures Microservices** & **Deep Learning avec TensorFlow**  
+💡 Spécialité : Transformer des problèmes complexes en solutions élégantes  
+🎯 Mission : Construire des applications à impact positif  
+📫 Contact : **andrandraina2003@gmail.com**
+
+</div>
 
 ---
 
-<!-- CONTACT ET LIENS SOCIAUX -->
+<div align="center">
+
+## 💻 Stack Technologique
+
+### 🤖 Intelligence Artificielle & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Développement Web Full-Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 💾 Bases de Données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ DevOps & Outils
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Statistiques GitHub
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andrandra1na&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=Andrandra1na&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrandra1na&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrandra1na&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Trophées GitHub
+
+<img src="https://github-profile-trophy.vercel.app/?username=Andrandra1na&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🤝 Connectons-nous !
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrandraina-andrianavony-592ba4288 ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " alt="LinkedIn"/>
-  </a>
-  <a href="mailto:andrandraina2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " alt="Gmail"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/andrandraina-andrianavony-592ba4288">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:andrandraina2003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/Andrandra1na">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+### 💬 *"L'innovation naît de l'audace de transformer l'impossible en réalité"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Construisons l'avenir — une ligne de code à la fois.</i>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
