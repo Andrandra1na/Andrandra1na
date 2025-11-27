@@ -1,117 +1,195 @@
 <div align="center">
 
 <!-- BANNER PROFESSIONNEL -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12&height=220&section=header&text=Andrandraina%20Andrianavony&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Python%20%7C%20Intelligence%20Artificielle%20%7C%20Vue.js&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12&height=200&section=header&text=Andrandraina%20Andrianavony&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Junior%20Full-Stack%20Developer%20%7C%20Passionné%20par%20l'IA&descAlignY=55&descSize=18"/>
 
 <!-- STATUS PROFESSIONNEL -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/andrandraina-fifaliana-andrianavony-592ba4288">
-    <img src="https://img.shields.io/badge/LinkedIn-Connectons_Nous-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:andrandraina2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me_Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Status-🟢%20Disponible%20(Remote/Freelance)-success?style=for-the-badge&labelColor=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-🟢%20Disponible%20Immédiatement-success?style=for-the-badge&labelColor=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/Localisation-Madagascar%20🇲🇬%20(Remote%20Ready)-orange?style=for-the-badge&labelColor=000000" alt="Location" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andrandra1na&label=Visiteurs&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/andrandraina-andrianavony-592ba4288"><img src="https://img.shields.io/badge/LinkedIn-Me%20Contacter-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:andrandraina2003@gmail.com"><img src="https://img.shields.io/badge/Email-andrandraina2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Andrandra1na&label=Visiteurs&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 À propos de moi
-
-Ingénieur logiciel spécialisé en **Python** et **Intelligence Artificielle**, je conçois des architectures robustes et évolutives. Mon parcours unique, alliant développement complexe (IA Multi-Agents) et gestion technique audiovisuelle, m'a appris une chose essentielle : **la fiabilité**.
+## 👨‍💻 Qui suis-je ?
 
 ```python
-class AIEngineer:
+class JuniorDeveloper:
     def __init__(self):
-        self.name = "Andrandraina Andrianavony"
-        self.role = "Full-Stack Python & AI Engineer"
-        self.location = "Madagascar 🇲🇬 (GMT+3)"
-        self.code_philosophy = ["Clean Code", "Scalability", "User Centric"]
+        self.nom = "Andrandraina Andrianavony"
+        self.formation = "Master en Informatique Appliquée à la Gestion d'Entreprise"
+        self.annee_diplome = 2025
+        self.role_recherche = "Développeur Full-Stack Junior | Stage/CDI/Freelance"
+        self.localisation = "Madagascar 🇲🇬"
         
-    def get_stack(self):
+    def mes_atouts(self):
         return {
-            "backend": ["Django", "Flask", "FastAPI", "Celery"],
-            "frontend": ["Vue.js 3", "React", "TypeScript"],
-            "ai_ml": ["TensorFlow", "LangChain (RAG)", "Computer Vision"],
-            "database": ["PostgreSQL", "Redis"]
+            "formation_solide": "Base théorique et pratique en développement",
+            "polyvalence": "Capable de travailler sur backend, frontend et IA",
+            "autonomie": "Apprentissage rapide et recherche de solutions",
+            "motivation": "Soif d'apprendre et de progresser continuellement",
+            "adaptabilite": "Remote ou présentiel, je m'adapte facilement"
         }
     
-    def current_status(self):
-        return "Ready to build your next big project 🚀"
+    def mon_objectif(self):
+        print("Intégrer une équipe où je peux apprendre, contribuer et grandir 🚀")
 
-me = AIEngineer()
-🏆 Projet Phare : IntelliHire
+moi = JuniorDeveloper()
+```
 
-Une plateforme d'IA multi-agents pour réduire les biais dans le recrutement.
+### 🎯 Ce que je recherche
 
-C'est le projet qui résume le mieux mon expertise. J'ai conçu et développé de A à Z une architecture complexe capable d'analyser des entretiens vidéo.
+Je suis **fraîchement diplômé** et je cherche une **opportunité professionnelle** pour mettre en pratique mes compétences et continuer à apprendre auprès de développeurs expérimentés. 
 
-🧠 IA Multimodale : Analyse conjointe de la voix, du texte et du visuel.
+**Ouvert à :**
+- 💼 **CDI/CDD** - Emploi en entreprise
+- 🎯 **Freelance/Missions** - Projets courts ou longs termes
+- 🎓 **Stage de fin d'études prolongé** - Pour démarrer
+- 🌍 **Remote ou Présentiel** - Flexible sur le mode de travail
 
-⚙️ Architecture : Système asynchrone avec Celery & Redis pour une performance optimale.
+---
 
-🌐 Tech : Python, Flask, TensorFlow, MediaPipe, Vue.js.
+## 🛠️ Mes Compétences Techniques
 
-Voir le code source
-
-🛠️ Arsenal Technique
 <div align="center">
 
-Domaine	Technologies
-🧠 IA & Data	
-![alt text](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![alt text](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
-![alt text](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![alt text](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+### Langages de Programmation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-⚙️ Backend	
-![alt text](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![alt text](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![alt text](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![alt text](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
+### Développement Web
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🎨 Frontend	
-![alt text](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![alt text](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![alt text](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![alt text](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+### Intelligence Artificielle & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-🗄️ Data & Ops	
-![alt text](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![alt text](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![alt text](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![alt text](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### Bases de Données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Outils & Environnement
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
-💼 Ce que je peux faire pour vous
+---
 
-Je suis à la recherche de collaborations (Freelance ou CDI Remote) pour des projets ambitieux.
+## 🎓 Parcours & Formation
 
-✅ Développement d'applications web complexes (SaaS, Dashboards, Outils métiers).
-✅ Intégration d'Intelligence Artificielle dans des processus existants.
-✅ Création d'API robustes et performantes.
-✅ Optimisation de bases de données et d'architectures backend.
+**🎯 Master en Informatique Appliquée à la Gestion d'Entreprise** - 2025  
+*Spécialisation : Développement d'applications et Intelligence Artificielle*
 
-📊 Statistiques GitHub
+**Compétences acquises durant ma formation :**
+- Développement d'applications web full-stack
+- Conception et gestion de bases de données
+- Implémentation de solutions d'IA et Machine Learning
+- Architecture logicielle et design patterns
+- Gestion de projets informatiques
+- Méthodologies Agile/Scrum
+
+---
+
+## 🌱 En Cours d'Apprentissage
+
+Je continue à développer mes compétences sur :
+- 🏗️ **Architecture Microservices** - Pour des applications évolutives
+- 🧠 **Deep Learning avancé** - Approfondissement avec TensorFlow
+- ☁️ **Cloud Computing** - AWS/Google Cloud Platform
+- 🎨 **UI/UX Design** - Pour créer de meilleures interfaces
+
+---
+
+## 📊 Activité GitHub
+
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andrandra1na&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=Andrandra1na&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA657&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrandra1na&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
 </div>
+
+---
+
+## 🎯 Types de Projets qui m'Intéressent
+
+- 🌐 **Applications Web Full-Stack** - De la conception à la mise en production
+- 🤖 **Projets avec IA/ML** - Intégration d'intelligence artificielle dans des solutions concrètes
+- 📊 **Visualisation de Données** - Transformation de données complexes en insights clairs
+- 🏢 **Solutions Métiers** - Applications qui résolvent de vrais problèmes d'entreprise
+- 🚀 **Startups & Innovation** - Environnements dynamiques où je peux apprendre rapidement
+
+---
+
+## 📞 Me Contacter
 
 <div align="center">
 
-🤝 Prêt à collaborer ?
+### 💼 Disponible pour discuter d'opportunités
 
-Me contacter sur LinkedIn • M'envoyer un Email
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12&height=80&section=footer" width="100%"/>
+**📧 Email**  
+[andrandraina2003@gmail.com](mailto:andrandraina2003@gmail.com)
 
+</td>
+<td align="center" width="33%">
+
+**💼 LinkedIn**  
+[Andrandraina Andrianavony](https://www.linkedin.com/in/andrandraina-andrianavony-592ba4288)
+
+</td>
+<td align="center" width="33%">
+
+**💻 GitHub**  
+[@Andrandra1na](https://github.com/Andrandra1na)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**⚡ Je réponds généralement sous 24h**
+
+---
+
+### 💬 *"Débutant passionné aujourd'hui, développeur confirmé demain"*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12&height=100&section=footer" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>🌟 Ouvert aux opportunités | Remote Ready | Madagascar 🇲🇬</sub>
 </div>
