@@ -63,13 +63,19 @@ Diplômé d'un **Master en Informatique Appliquée (MIAGE)**, je ne me contente 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <a href="https://github.com/Andrandra1na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrandra1na&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Andrandraina's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Andrandra1na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrandra1na&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
-  </a>
+
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andrandra1na&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
+    alt="Andrandraina's GitHub Stats" 
+  />
+
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Andrandra1na&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=6"
+    alt="Top Languages" 
+  />
+
 </div>
+
 
 ---
 
