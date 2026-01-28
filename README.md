@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER PROFESSIONNEL -->
-![AI/LLM Engineer](https://img.shields.io/badge/Andrandraina%20Andrianavony-AI%20%2F%20LLM%20Engineer%20%7C%20Backend%20Python-blue?style=for-the-badge)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12&height=220&section=header&text=Andrandraina%20Andrianavony&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Python%20Developer%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=60&descSize=18"/>
 
 <!-- RESEAUX & CONTACT -->
 <p align="center">
