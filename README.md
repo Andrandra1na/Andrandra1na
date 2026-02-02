@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BADGE TITRE -->
-![Full-Stack Python & IA](https://img.shields.io/badge/Andrandraina%20Andrianavony-Full--Stack%20Python%20%26%20IA-blue?style=for-the-badge)
+![Full-Stack Python & IA](https://img.shields.io/badge/Andrandraina%20Andrianavony-Full-Stack%20Python%20%26%20IA-blue?style=for-the-badge)
 
 <!-- RESEAUX -->
 <p>
@@ -28,7 +28,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis **Full-Stack Python & IA / LLM Engineer**, passionné par la création de **systèmes intelligents** et d’**applications web scalables**.  
+Je suis **AI / LLM Engineer & Backend Python**, passionné par la création de **systèmes intelligents** et d’**applications web scalables**.  
 
 J’accompagne les organisations dans l’**automatisation des processus**, l’intégration de **modèles IA/LLM**, et la construction de **backends robustes** (FastAPI/Django) avec pipelines, agents et RAG.
 
