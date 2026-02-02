@@ -1,4 +1,4 @@
-avec ceci cela a bien marcher : il faut aussi ajuster mon profil github ici par rapport à mon dernier profil linkedin et CV qu'on a construit en haut : <div align="center">
+<div align="center">
 
 <!-- BADGE TITRE -->
 ![AI / LLM Engineer](https://img.shields.io/badge/Andrandraina%20Andrianavony-AI%20%2F%20LLM%20Engineer%20%7C%20Backend%20Python-blue?style=for-the-badge)
