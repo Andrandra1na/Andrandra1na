@@ -64,19 +64,17 @@ J’accompagne les organisations dans l’**automatisation des processus**, l’
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
-
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Andrandra1na&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Andrandraina's GitHub Stats" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Andrandra1na&theme=github-dark&hide_border=true"
+    height="170"
   />
-
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrandra1na&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    alt="Top Languages" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrandra1na&theme=github_dark"
+    height="170"
   />
+</p>
 
-</div>
 
 ---
 
