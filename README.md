@@ -37,27 +37,62 @@ J’aide les entreprises à :
 
 ##  Core Stack
 
-**Backend & APIs**
-- Python (FastAPI, Django, Flask)
-- REST APIs, Async Processing
-- Celery / Redis
-- PostgreSQL
+### 🧠 Backend & APIs
 
-**AI & Data**
-- TensorFlow
-- LangChain
-- RAG Architectures
-- Pandas / OpenCV
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-**Frontend**
-- Vue.js
-- React
-- Tailwind / Bootstrap
+---
 
-**DevOps**
-- Docker
-- Git
-- CI/CD basics
+### 🤖 AI & Data
+
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-LLM%20Architecture-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+</p>
+
+### 🧩 LLM & Agents
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ReAct-Agent-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent-Systems-purple?style=for-the-badge"/>
+</p>
 
 ---
 
