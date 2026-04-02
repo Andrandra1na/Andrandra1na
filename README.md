@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Professional Summary
+##  Professional Summary
 
 AI / LLM Engineer spécialisé en conception de **systèmes intelligents**, intégration de **LLMs**, architectures **RAG**, et développement de **backends scalables**.
 
@@ -35,7 +35,7 @@ J’aide les entreprises à :
 
 ---
 
-## 🛠 Core Stack
+##  Core Stack
 
 **Backend & APIs**
 - Python (FastAPI, Django, Flask)
@@ -61,7 +61,7 @@ J’aide les entreprises à :
 
 ---
 
-## 🔭 Featured Project
+##  Featured Project
 
 ### 🧠 IntelliHire – AI Interview Analysis Platform  
 Architecture multi-agents pour analyse vidéo, audio et texte afin de réduire les biais de recrutement.
@@ -78,7 +78,7 @@ Python • Flask • Vue.js • TensorFlow • MediaPipe • Celery • Redis
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img 
@@ -89,7 +89,7 @@ Python • Flask • Vue.js • TensorFlow • MediaPipe • Celery • Redis
 
 ---
 
-## 🤝 Let’s Build Intelligent Systems
+##  Let’s Build Intelligent Systems
 
 Disponible pour :
 
